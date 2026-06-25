@@ -1,0 +1,8 @@
+**/node_modules
+**/target
+**/dist
+.git
+.gitignore
+Dockerfile
+build-and-package.ps1
+README.md
